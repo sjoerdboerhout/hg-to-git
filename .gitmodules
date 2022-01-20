@@ -1,0 +1,4 @@
+[submodule "fast-export"]
+	path = fast-export
+	url = https://github.com/frej/fast-export.git
+	branch = master
